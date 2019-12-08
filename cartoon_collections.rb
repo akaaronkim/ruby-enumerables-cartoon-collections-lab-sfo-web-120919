@@ -1,4 +1,9 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(arr)
+  arr.each_with_index do |dwarf, i|
+    num = (i + 1)to_s
+    puts num + dwarf
+  end
+    
   # Your code here
 end
 
