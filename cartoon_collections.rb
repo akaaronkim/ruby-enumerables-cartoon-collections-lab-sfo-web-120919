@@ -3,7 +3,7 @@ def roll_call_dwarves(arr)
     num = (i + 1)to_s
     puts num + dwarf
   end
-    
+
   # Your code here
 end
 
