@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)
     num = (i + 1)to_s
     puts num + dwarf
   end
-  
+
 end
 
 def summon_captain_planet# code an argument here
